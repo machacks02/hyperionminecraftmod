@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "W W",
+      "WWW",
+      "WWW"
+    ],
+    "key": {
+      "W": {
+        "item": "modded:vibranium_ingot"
+      }
+    },
+    "result": {
+      "item": "modded:vibranium_chestplate",
+      "count": 1
+    }
+  }

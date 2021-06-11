@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " W ",
+      " R ",
+      " W "
+    ],
+    "key": {
+      "W": {
+        "item": "minecraft:nether_star"
+      },
+      "R": {
+        "item": "minecraft:diamond_sword"
+      }
+    },
+    "result": {
+      "item": "modded:grappling_hook",
+      "count": 1
+    }
+  }

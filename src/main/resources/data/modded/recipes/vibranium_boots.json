@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "W W",
+      "W W"
+    ],
+    "key": {
+      "W": {
+        "item": "modded:vibranium_ingot"
+      }
+    },
+    "result": {
+      "item": "modded:vibranium_boots",
+      "count": 1
+    }
+  }

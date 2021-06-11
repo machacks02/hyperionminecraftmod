@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "RR ",
+      " W ",
+      " W "
+    ],
+    "key": {
+      "W": {
+        "item": "minecraft:blaze_rod"
+      },
+      "R": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "modded:gun",
+      "count": 1
+    }
+  }
